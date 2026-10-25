@@ -54,8 +54,7 @@ With Docker: `docker compose up --build`, then open http://localhost:8080.
 
 ## Live links
 
-- Frontend (Vercel): TBD
-- Backend (Heroku): TBD
+- https://rewqasd-n64s.vercel.app
 
 ## AI tool disclosure
 
